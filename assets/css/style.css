@@ -1,0 +1,37 @@
+.fruits{
+    border: #0fcccc 2px solid;
+    padding: 20px;
+    margin: 20px;
+    background-color: crimson;
+    text-align: center;
+    color: beige;
+}
+.cars{
+    border: chocolate 2px solid;
+    padding: 20px;
+    margin: 20px;
+    background-color: cyan;
+    text-align: end;
+    color: cornflowerblue;
+
+}
+.FRUITS{
+    border: crimson 2px solid;
+    margin: 15px;
+    padding: 10px;
+    background-color: #1bc714;
+    text-align: center;
+    color: darkmagenta;
+
+}
+img{
+    width: 20%;
+}
+#school{
+    border: chocolate 2px solid;
+    padding: 20px;
+    margin: 20px;
+    background-color: cyan;
+    text-align: end;
+    color: cornflowerblue;
+}
